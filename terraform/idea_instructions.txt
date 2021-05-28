@@ -1,0 +1,14 @@
+1) Create an instance in a controlled VPC environment specifically designed for testing
+2) configure the instance to start the uchan system on boot
+3) create custom users and ssh keys for each potential user to uchan
+4) Develop infrastructure to support golden ami 
+  a) Elastic Load Balancing / Autoscaling
+  b) External Database
+  c) Golden AMI
+
+5) Use terraform
+~~~~~~~~
+
+
+
+1)
